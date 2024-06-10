@@ -1,2 +1,2 @@
-This is a scientific calculator built in pyhton language.
+This is a scientific calculator built in python language.
 Author - Shivani Satapathy
